@@ -4,7 +4,7 @@ Automate the process of skipping to the next video on the TCS iON Hub.
 
 ## Description
 
-No more manual clicks to progress through video lessons (I am just too lazy to press the next button everytime the 5-second video ends) - this script automates the process for you. It detects the "Next" button on video pages and clicks it as soon as it becomes visible.
+No more manual clicks to progress through video lessons (I am just too lazy to press the next button every time the 5-second video ends) - this script automates the process for you. It detects the "Next" button on video pages and clicks it as soon as it becomes visible.
 
 ## Installation
 
@@ -21,3 +21,6 @@ No more manual clicks to progress through video lessons (I am just too lazy to p
 ---
 
 **Disclaimer:** Please don't skip through the video because of this.
+
+
+Also please give me a star if you are using it. You know for the "internet clout".
