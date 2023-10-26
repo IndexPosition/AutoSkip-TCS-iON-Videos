@@ -3,7 +3,6 @@
 // @version      1.0
 // @description  Automatically skips to the next video on TCS iON Hub.
 // @author       IndexPosition
-// @match        https://learning.tcsionhub.in/
 // @grant        none
 // ==/UserScript==
 
